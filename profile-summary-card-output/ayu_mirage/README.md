@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Taka571/Taka571/main/profile-summary-card-output/ayu_mirage/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Taka571/Taka571/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
-```
-
-    
