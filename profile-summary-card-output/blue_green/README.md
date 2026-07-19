@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Taka571/Taka571/main/profile-summary-card-output/blue_green/4-productive-time.svg)
-```
-
-    
