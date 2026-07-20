@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Taka571/Taka571/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)
-```
-
-    
